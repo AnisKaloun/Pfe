@@ -1,0 +1,22 @@
+on doit d'abbord énumérer les interfaces a faire et par la suite les départagé entre nous.
+//si il y a d'autre interface a rajouté et que j'ai oublié tu peux rajouter
+
+1-page de login:
+on rentre les identifiants
+on choisis de ce connecté ou de s'inscrire
+2-page d'inscription:
+formulaire à remplir 
+puis le bouton s'inscrire
+3-le profil utilisateur 
+ou il y a les infos nécessaires
+4-le main activity(l'activité principal aprés connexion)
+contient le fil d'actualité
+on peut a gauche genre on pousse comme fb l'ancien pour voir le petit menu
+5-l'interface aprés avoir consulté un article
+c l'interface ou en peut téléchargé , noté et tout
+6-...
+
+P.S: Pour la fonction de rajouter un article je sais pas si on le met en bas du fil d'actualité wela fle petit menu 
+
+
+ 
